@@ -1,2 +1,2 @@
-# Data-Sains-dan-Analitis
-Dalam repository ini terdapat project yang saya buat dalam tugas kuliah semester 6 untuk mata kuliah data sains dan analitis.
+# Data_Sains_dan_Analitis
+Repository ini berisi proyek yang saya kerjakan untuk tugas kuliah semester 6 mata kuliah data sains dan analitis.
